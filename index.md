@@ -14,7 +14,7 @@ SEE BELOW
 
 
 
-# **Valorant**
+# Valorant
 
 My favorite agent is *Raze*
 This is a link to my stats
@@ -26,7 +26,7 @@ A quote from *Tarik* about my gameplay
 
 > Whats his gun skin?
 
-# **Coding**
+# Coding
 
 My favorite method in c++ is `std::sort (myvector.begin(), myvector.begin()+4)` 
 My favorite vscode theme for code is monkai pro here is a reference [Code](monaki.png)
@@ -40,7 +40,7 @@ In order to **succeed** in this position I must
 2. Practice daily
 3. Be open-minded
 
-# **Crocheting**
+# Crocheting
 
 There are 3 things I want to crochet this year and some projects already been doen below I will show my progress
 - [x] blanket
