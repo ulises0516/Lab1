@@ -1,7 +1,7 @@
 # Ulises ( Programmer/Person ) 
 
 **Hobbies**
-- [Valorant](#Valorant)
+- [Valorant](#-Valorant)
 - [Coding](#Coding)
 - [Crocheting](#Crocheting)
 
@@ -11,7 +11,7 @@ This is a little introcution to my favorite 3 hobbies that include a little abou
 <img width="277" alt="Screenshot 2024-04-08 at 10 25 00 PM" src="https://github.com/ulises0516/Lab1/assets/125671517/f741159d-598a-47d9-a858-f6f9622a992f">
 
 
-# Valorant
+# -Valorant
 
 My favorite agent is *Raze*
 This is a link to my stats
