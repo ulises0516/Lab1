@@ -2,8 +2,8 @@
 
 **Hobbies**
 - [Valorant](#-Valorant)
-- [Coding](#Coding)
-- [Crocheting](#Crocheting)
+- [Coding](#-Coding)
+- [Crocheting](#-Crocheting)
 
 
 This is a little introcution to my favorite 3 hobbies that include a little about my personality and as a programmer. Some other information that is not listed below is that I am incoming Full-Stack Web Developer this summer. The picture Below is a picture of my favorite food. Other than that thanks for reading!
@@ -23,7 +23,7 @@ A quote from *Tarik* about my gameplay
 
 > Whats his gun skin?
 
-# Coding
+# -Coding
 
 My favorite method in c++ is `std::sort (myvector.begin(), myvector.begin()+4)` 
 My favorite vscode theme for code is monkai pro here is a reference [Code](monaki.png)
@@ -37,7 +37,7 @@ In order to **succeed** in this position I must
 2. Practice daily
 3. Be open-minded
 
-# Crocheting
+# -Crocheting
 
 There are 3 things I want to crochet this year and some projects already been doen below I will show my progress
 - [x] blanket
