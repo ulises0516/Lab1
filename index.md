@@ -1,17 +1,14 @@
 # Ulises ( Programmer/Person ) 
 
 **Hobbies**
-- [valorant](#Valorant)
-- [coding](#Coding)
-- [crocheting](#Crocheting)
+- [Valorant](#Valorant)
+- [Coding](#Coding)
+- [Crocheting](#Crocheting)
 
 
+This is a little introcution to my favorite 3 hobbies that include a little about my personality and as a programmer. Some other information that is not listed below is that I am incoming Full-Stack Web Developer this summer. The picture Below is a picture of my favorite food. Other than that thanks for reading!
 
-
-
-SEE BELOW
-
-
+<img width="277" alt="Screenshot 2024-04-08 at 10 25 00 PM" src="https://github.com/ulises0516/Lab1/assets/125671517/f741159d-598a-47d9-a858-f6f9622a992f">
 
 
 # Valorant
