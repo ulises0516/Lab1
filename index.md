@@ -1,9 +1,10 @@
 # Ulises 
 
 **Hobbies**
-- [Valorant](#Valorant)
-- [Coding](#Coding)
-- [Crochet](#Crochet)
+
+[Valorant](#Valorant)
+[Coding](#Coding)
+[Crochet](#Crochet)
 
 
 This is a little introcution to my favorite 3 hobbies that include a little about my personality and as a programmer. Some other information that is not listed below is that I am incoming Full-Stack Web Developer this summer. The picture Below is a picture of my favorite food. Other than that thanks for reading!
